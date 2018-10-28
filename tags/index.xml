@@ -7,35 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
+      <title>Academic</title>
       <link>https://kevinmcgregor.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://kevinmcgregor.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Deep-learning</title>
-      <link>https://kevinmcgregor.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://kevinmcgregor.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
