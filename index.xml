@@ -42,6 +42,15 @@ My research interests include:
     </item>
     
     <item>
+      <title>Software</title>
+      <link>https://kevinmcgregor.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/software/</guid>
+      <description> MDiNE (Microbiome Differential Network Estimation)  Bayesian model to estimate precision matrix based network changes with respect to a binary covariate. (In development)   </description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://kevinmcgregor.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

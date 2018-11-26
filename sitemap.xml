@@ -33,6 +33,10 @@
   </url>
   
   <url>
+    <loc>https://kevinmcgregor.github.io/software/</loc>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/tags/</loc>
     <priority>0</priority>
   </url>
