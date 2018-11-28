@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://kevinmcgregor.github.io/kindex/</loc>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/categories/</loc>
     <priority>0</priority>
   </url>
