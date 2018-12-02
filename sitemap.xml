@@ -26,6 +26,12 @@
   </url>
   
   <url>
+    <loc>https://kevinmcgregor.github.io/categories/data-science/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -38,7 +44,25 @@
   </url>
   
   <url>
+    <loc>https://kevinmcgregor.github.io/tags/probability/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/categories/probability/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/tags/r/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -47,6 +71,7 @@
   
   <url>
     <loc>https://kevinmcgregor.github.io/tags/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

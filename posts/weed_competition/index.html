@@ -34,6 +34,11 @@
     
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+
+
+
 
 
 
@@ -191,6 +196,32 @@
     
     
     
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/data-science">DATA SCIENCE</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/probability">PROBABILITY</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/probability">probability</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/r">r</a>
+          
+      
     
     
     <br/>
@@ -277,7 +308,8 @@ ggplot(data=p.df, aes(Permit)) + geom_histogram() +
 
 <p>where N is the population size, K is the number of &ldquo;success&rdquo; items in the population, and n is the number of draws from the population.  I then calculate the probability using the CDF of the hypergeometric distribution:</p>
 
-<pre><code># Calculating probability of 4 or more permits if you can obtain multiple permits in each city
+<pre><code># Calculating probability of 4 or more permits if you 
+# could obtain multiple permits in each city
 avail.permit &lt;- sum(c.data$permits)
 n.wo.permit &lt;- sum(c.data$submissions) - avail.permit
 
@@ -289,7 +321,8 @@ n.wo.permit &lt;- sum(c.data$submissions) - avail.permit
 <p>In this case, the probability of four or more permits is 9.1%.  Out of curiosity, the N parameter in this distribution is fairly large&hellip; could I have used the binomial distribution to approximate this probability?  Let&rsquo;s find out:</p>
 
 <pre><code># Would binomial have worked as well here?
-1-pbinom(3, avail.permit, avail.permit/(avail.permit+n.wo.permit))
+1-pbinom(3, avail.permit, 
+	    avail.permit/(avail.permit+n.wo.permit))
 # [1] 0.09459626
 </code></pre>
 
@@ -328,6 +361,9 @@ n.wo.permit &lt;- sum(c.data$submissions) - avail.permit
 
 
     
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        
     
     <script type="text/javascript">
         
