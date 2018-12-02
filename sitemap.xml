@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kevinmcgregor.github.io/posts/weed_competition/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/posts/first_post/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
@@ -22,13 +27,13 @@
   
   <url>
     <loc>https://kevinmcgregor.github.io/</loc>
-    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kevinmcgregor.github.io/posts/</loc>
-    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
