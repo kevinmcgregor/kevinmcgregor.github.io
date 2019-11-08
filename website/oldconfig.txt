@@ -1,0 +1,20 @@
+baseURL = "https://kevinmcgregor.github.io/"
+languageCode = "en-us"
+title = "Kevin McGregor"
+theme = "hyde-hyde"
+
+[params]
+  themeColor = "theme-base-08"
+  author = "Kevin McGregor"
+  title = "Kevin McGregor"
+  tagline = "Personal website"
+  authorimage = "/img/kevin_compressed.png"
+  dateformat = "Jan 2, 2006"
+  highlightjs = true
+  highlightjsstyle = "github"
+
+[params.social]
+    github = "kevinmcgregor"
+    linkedin = "kevin-mcgregor-6b82029b"
+    twitter = "keviscos"
+    email = "kevin.mcgregor@mail.mcgill.ca"
