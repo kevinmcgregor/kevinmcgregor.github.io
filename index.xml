@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin McGregor</title>
+    <link>https://kevinmcgregor.github.io/</link>
+    <description>Recent content on Kevin McGregor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weeding out the competition</title>
+      <link>https://kevinmcgregor.github.io/posts/weed_competition/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/posts/weed_competition/</guid>
+      <description>I may be a little late to the game on this one, but a few months ago there was some controversy surrounding Saskatchewan&amp;rsquo;s cannabis licensing lottery, where several businesses won multiple permits across the province despite a large number of applicants in each municipality. One cannabis company, Prairie Sky Cannabis, was able to obtain four permits: one in each of Battleford, Estevan, Martensville and Moosomin. An article in the Leader Post claimed the probability of this happening was only 1 in 1.</description>
+    </item>
+    
+    <item>
+      <title>First post on new site</title>
+      <link>https://kevinmcgregor.github.io/posts/first_post/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/posts/first_post/</guid>
+      <description>Welcome to my personal website! This is my very first post&amp;hellip; I&amp;rsquo;m still getting used to the paricularities of using Hugo.</description>
+    </item>
+    
+    <item>
+      <title>About Kevin</title>
+      <link>https://kevinmcgregor.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/about/</guid>
+      <description>I&amp;rsquo;m currently a PhD candidate in Biostatistics in McGill University&amp;rsquo;s Department of Epidemiology, Biostatistics, and Occupational Health. My co-supervisors are Celia Greenwood and Aurélie Labbe.
+My research interests include:
+ Statistical genetics Analysis of high-dimensional data Network analysis in microbiome data Bayesian statistical methods Statistical analysis of DNA methylation data  </description>
+    </item>
+    
+    <item>
+      <title>About Kevin</title>
+      <link>https://kevinmcgregor.github.io/kindex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/kindex/</guid>
+      <description>I&amp;rsquo;m currently a PhD candidate in Biostatistics in McGill University&amp;rsquo;s Department of Epidemiology, Biostatistics, and Occupational Health. My co-supervisors are Celia Greenwood and Aurélie Labbe.
+My research interests include:
+ Statistical genetics Analysis of high-dimensional data Network analysis in microbiome data Bayesian statistical methods Statistical analysis of DNA methylation data  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kevinmcgregor.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/publications/</guid>
+      <description>Published Articles  McGregor K, Labbe A, Greenwood CMT. MDiNE: A model to estimate differential co-occurrence networks in microbiome studies. Accepted in Bioinformatics
+ Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior. Accepted in the European Eating Disorders Review: Sept 2019
+ Thiviya Jeyakumar, Nassima Fodil, Lauren Van Der Kraak, Charles Meunier, Romain Cayrol, Kevin McGregor, David Langlais, Celia Greenwood, Nicole Beauchemin, Philippe Gros; P145 Inactivation of IRF1 causes susceptibility to colitis-associated colorectal cancer.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://kevinmcgregor.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/software/</guid>
+      <description> MDiNE (Microbiome Differential Network Estimation)  Bayesian model to estimate precision matrix based network changes with respect to a binary covariate. (In development)   </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kevinmcgregor.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/teaching/</guid>
+      <description> Course instructor  EPIB 521 - Regression Analysis for Health Sciences
+ McGill University, Winter 2018  Lady Davis Institute Seminar Series in Biostatistics
+ Lady Davis Institute for Medical Research - Fall 2017 (Lecture notes)   Teaching assistant  EDPE 676 - Intermediate Statistics
+ McGill University, Fall 2016  EDPE 676 - Intermediate Statistics
+ McGill University, Fall 2015   </description>
+    </item>
+    
+  </channel>
+</rss>
