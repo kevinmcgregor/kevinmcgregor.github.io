@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data science</title>
+      <link>https://kevinmcgregor.github.io/categories/data-science/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability</title>
+      <link>https://kevinmcgregor.github.io/categories/probability/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/categories/probability/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
