@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joining York University</title>
+      <link>https://kevinmcgregor.github.io/posts/joining_york/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/posts/joining_york/</guid>
+      <description>I&amp;rsquo;m very excited to announce that, in January 2021, I will be joining York University&amp;rsquo;s Department of Mathematics and Statistics at the rank of Assistant Professor! Go Lions!</description>
+    </item>
     
     <item>
       <title>Weeding out the competition</title>
