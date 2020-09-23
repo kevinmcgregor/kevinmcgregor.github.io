@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kevin McGregor</title>
@@ -9,24 +9,6 @@
     
 	<atom:link href="https://kevinmcgregor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Data Science</title>
-      <link>https://kevinmcgregor.github.io/categories/data-science/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probability</title>
-      <link>https://kevinmcgregor.github.io/categories/probability/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/categories/probability/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
