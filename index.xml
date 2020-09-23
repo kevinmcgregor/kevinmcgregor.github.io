@@ -30,19 +30,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://kevinmcgregor.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/teaching/</guid>
-      <description>&amp;rsquo;+++ title = &amp;ldquo;Teaching&amp;rdquo; date = &amp;ldquo;2020-23-09&amp;rdquo; +++
-Course instructor  MATH 4931 - Simulation and the Monte Carlo Method
- York University, Winter 2020  EPIB 521 - Regression Analysis for Health Sciences
- McGill University, Winter 2018  Lady Davis Institute Seminar Series in Biostatistics
- Lady Davis Institute for Medical Research - Fall 2017 (Lecture notes)   Teaching assistant  EDPE 676 - Intermediate Statistics</description>
-    </item>
-    
-    <item>
       <title>About Kevin</title>
       <link>https://kevinmcgregor.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,6 +70,19 @@ My research interests include:
       
       <guid>https://kevinmcgregor.github.io/software/</guid>
       <description> MDiNE (Microbiome Differential Network Estimation)  Bayesian model to estimate precision matrix based network changes with respect to a binary covariate. (In development)   </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kevinmcgregor.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/teaching/</guid>
+      <description>Course instructor  MATH 4931 - Simulation and the Monte Carlo Method
+ York University, Winter 2020  EPIB 521 - Regression Analysis for Health Sciences
+ McGill University, Winter 2018  Lady Davis Institute Seminar Series in Biostatistics
+ Lady Davis Institute for Medical Research - Fall 2017 (Lecture notes)   Teaching assistant  EDPE 676 - Intermediate Statistics
+ McGill University, Fall 2016  EDPE 676 - Intermediate Statistics</description>
     </item>
     
   </channel>
