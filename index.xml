@@ -6,10 +6,21 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software</title>
+      <link>https://kevinmcgregor.github.io/software/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/software/</guid>
+      <description> MDiNE (Microbiome Differential Network Estimation)
+ Bayesian model to estimate precision matrix based network changes with respect to a binary covariate.  MiCoRe (Microbiome Covariance Regresion)
+ Bayesian model to estimate covariance matrix changes with respect to a covariate profile in microbiome data.   </description>
+    </item>
     
     <item>
       <title>Joining York University</title>
@@ -70,15 +81,6 @@ My research interests include:
       <description>Published Articles  Kevin McGregor, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. Submitted to Biometrics in June 2020
  McGregor, Kevin, Aurélie Labbe, and Celia MT Greenwood. &amp;ldquo;MDiNE: a model to estimate differential co-occurrence networks in microbiome studies.&amp;rdquo; Bioinformatics 36.6 (2020): 1840-1847.
  Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior.</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://kevinmcgregor.github.io/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/software/</guid>
-      <description> MDiNE (Microbiome Differential Network Estimation)  Bayesian model to estimate precision matrix based network changes with respect to a binary covariate. (In development)   </description>
     </item>
     
     <item>
