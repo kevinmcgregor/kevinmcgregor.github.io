@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kevinmcgregor.github.io/about/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kevinmcgregor.github.io/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,10 +65,6 @@
   <url>
     <loc>https://kevinmcgregor.github.io/posts/first_post/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/about/</loc>
   </url>
   
   <url>
