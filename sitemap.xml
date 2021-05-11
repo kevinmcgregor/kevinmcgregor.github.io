@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kevinmcgregor.github.io/about/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://kevinmcgregor.github.io/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kevinmcgregor.github.io/</loc>
+    <loc>https://kevinmcgregor.github.io/trainees/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/about/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -25,6 +30,11 @@
   <url>
     <loc>https://kevinmcgregor.github.io/posts/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/publications/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,10 +79,6 @@
   
   <url>
     <loc>https://kevinmcgregor.github.io/kindex/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/publications/</loc>
   </url>
   
   <url>

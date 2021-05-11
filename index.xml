@@ -6,10 +6,19 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trainees</title>
+      <link>https://kevinmcgregor.github.io/trainees/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/trainees/</guid>
+      <description>I am supervising two undergraduate research assistants for the summer of 2021 * Yutong Chen (YorkU Dean&amp;rsquo;s Undergraduate Research Award recipient) * Nneka Okaeme</description>
+    </item>
     
     <item>
       <title>About Kevin</title>
@@ -43,6 +52,17 @@ My research interests include:
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://kevinmcgregor.github.io/publications/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/publications/</guid>
+      <description>Published Articles  Kevin McGregor, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. Submitted to Biometrics in June 2020
+ McGregor, Kevin, Aurélie Labbe, and Celia MT Greenwood. &amp;ldquo;MDiNE: a model to estimate differential co-occurrence networks in microbiome studies.&amp;rdquo; Bioinformatics 36.6 (2020): 1840-1847.
+ Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior.</description>
+    </item>
+    
+    <item>
       <title>Weeding out the competition</title>
       <link>https://kevinmcgregor.github.io/posts/weed_competition/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -69,17 +89,6 @@ My research interests include:
       <description>I&amp;rsquo;m currently a PhD candidate in Biostatistics in McGill University&amp;rsquo;s Department of Epidemiology, Biostatistics, and Occupational Health. My co-supervisors are Celia Greenwood and Aurélie Labbe.
 My research interests include:
  Statistical genetics Analysis of high-dimensional data Network analysis in microbiome data Bayesian statistical methods Statistical analysis of DNA methylation data  </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://kevinmcgregor.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/publications/</guid>
-      <description>Published Articles  Kevin McGregor, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. Submitted to Biometrics in June 2020
- McGregor, Kevin, Aurélie Labbe, and Celia MT Greenwood. &amp;ldquo;MDiNE: a model to estimate differential co-occurrence networks in microbiome studies.&amp;rdquo; Bioinformatics 36.6 (2020): 1840-1847.
- Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior.</description>
     </item>
     
     <item>
