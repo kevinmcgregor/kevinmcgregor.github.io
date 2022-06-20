@@ -6,10 +6,24 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kevinmcgregor.github.io/teaching/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/teaching/</guid>
+      <description>Course instructor  MATH 3131 - Introductory Probability and Statistics
+ York University, Fall 2021  MATH 4931 - Simulation and the Monte Carlo Method
+ York University, Winter 2021, Winter 2022  MATH 6635 - Introduction to Bayesian Statistics
+ York University, Winter 2022  EPIB 521 - Regression Analysis for Health Sciences
+ McGill University, Winter 2018  Lady Davis Institute Seminar Series in Biostatistics
+ Lady Davis Institute for Medical Research - Fall 2017 (Lecture notes)   Teaching assistant  EDPE 676 - Intermediate Statistics</description>
+    </item>
     
     <item>
       <title>Trainees</title>
@@ -93,20 +107,6 @@ My research interests include:
       <description>I&amp;rsquo;m currently a PhD candidate in Biostatistics in McGill University&amp;rsquo;s Department of Epidemiology, Biostatistics, and Occupational Health. My co-supervisors are Celia Greenwood and Aurélie Labbe.
 My research interests include:
  Statistical genetics Analysis of high-dimensional data Network analysis in microbiome data Bayesian statistical methods Statistical analysis of DNA methylation data  </description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://kevinmcgregor.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/teaching/</guid>
-      <description>Course instructor  MATH 2930 - Introductory Probability and Statistics
- York University, Fall 2021  MATH 4931 - Simulation and the Monte Carlo Method
- York University, Winter 2021, Winter 2022  MATH 6635 - Introduction to Bayesian Statistics
- York University, Winter 2022  EPIB 521 - Regression Analysis for Health Sciences
- McGill University, Winter 2018  Lady Davis Institute Seminar Series in Biostatistics
- Lady Davis Institute for Medical Research - Fall 2017 (Lecture notes)   Teaching assistant  EDPE 676 - Intermediate Statistics</description>
     </item>
     
   </channel>
