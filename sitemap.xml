@@ -48,47 +48,20 @@
   </url>
   
   <url>
-    <loc>https://kevinmcgregor.github.io/categories/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/categories/data-science/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/categories/probability/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/tags/probability/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/tags/r/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/tags/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kevinmcgregor.github.io/posts/weed_competition/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kevinmcgregor.github.io/posts/first_post/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kevinmcgregor.github.io/kindex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinmcgregor.github.io/tags/</loc>
   </url>
   
 </urlset>

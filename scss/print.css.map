@@ -4,8 +4,8 @@
 	"sourceRoot": "/Users/kevin/Documents/repositories/website",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
-		"../../../../../Documents/repositories/website/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
-		"../../../../../Documents/repositories/website/themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
+		"../../../../../../../Documents/repositories/website/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
+		"../../../../../../../Documents/repositories/website/themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
 	],
 	"sourcesContent": [
 		"@import \"hyde-hyde/variables\";\n@import 'hyde-hyde/print';\n",
