@@ -6,10 +6,19 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://kevinmcgregor.github.io/posts/welcome/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/posts/welcome/</guid>
+      <description>Welcome to my personal website!</description>
+    </item>
     
     <item>
       <title>Consulting</title>
@@ -71,15 +80,6 @@ My research interests include:
     </item>
     
     <item>
-      <title>Joining York University</title>
-      <link>https://kevinmcgregor.github.io/posts/joining_york/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/posts/joining_york/</guid>
-      <description>I&amp;rsquo;m very excited to announce that, in January 2021, I will be joining York University&amp;rsquo;s Department of Mathematics and Statistics at the rank of Assistant Professor! Go Lions!</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://kevinmcgregor.github.io/publications/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
@@ -88,15 +88,6 @@ My research interests include:
       <description>Published Articles  Kevin McGregor, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. Submitted to Biometrics in June 2020
  McGregor, Kevin, Aurélie Labbe, and Celia MT Greenwood. &amp;ldquo;MDiNE: a model to estimate differential co-occurrence networks in microbiome studies.&amp;rdquo; Bioinformatics 36.6 (2020): 1840-1847.
  Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior.</description>
-    </item>
-    
-    <item>
-      <title>First post on new site</title>
-      <link>https://kevinmcgregor.github.io/posts/first_post/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/posts/first_post/</guid>
-      <description>Welcome to my personal website! This is my very first post&amp;hellip; I&amp;rsquo;m still getting used to the paricularities of using Hugo.</description>
     </item>
     
     <item>
