@@ -6,10 +6,22 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software</title>
+      <link>https://kevinmcgregor.github.io/software/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/software/</guid>
+      <description> countprop
+ Calculates metrics of proportionality using the logit-normal multinomial model. It can also provide empirical and plugin estimates of these metrics.  MDiNE (Microbiome Differential Network Estimation)
+ Bayesian model to estimate precision matrix based network changes with respect to a binary covariate.  MiCoRe (Microbiome Covariance Regresion)
+ Bayesian model to estimate covariance matrix changes with respect to a covariate profile in microbiome data.   </description>
+    </item>
     
     <item>
       <title>About Kevin</title>
@@ -66,17 +78,6 @@ My research interests include:
  Zhijie Li  Current undergraduate research assistants
  Nneka Okaeme - NSERC USRA 2022  Past undergraduate research assistants
  Yutong Chen - YorkU Dean&amp;rsquo;s Undergraduate Research Award 2022  </description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://kevinmcgregor.github.io/software/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/software/</guid>
-      <description> MDiNE (Microbiome Differential Network Estimation)
- Bayesian model to estimate precision matrix based network changes with respect to a binary covariate.  MiCoRe (Microbiome Covariance Regresion)
- Bayesian model to estimate covariance matrix changes with respect to a covariate profile in microbiome data.   </description>
     </item>
     
     <item>
