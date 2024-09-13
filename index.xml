@@ -6,10 +6,20 @@
     <description>Recent content on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kevinmcgregor.github.io/publications/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/publications/</guid>
+      <description>Published Articles  Ba, I., Turgeon, M., Veniamin, S., Joel, J., Miller, R., Graham, M., &amp;hellip; &amp;amp; McGregor, K. (2024). A Bayesian factor analysis model for high-dimensional microbiome count data. Submitted to Statistical Methods in Medical Research
+ McGregor, K., Okaeme, N., Khorasaniha, R., Veniamin, S., Jovel, J., Miller, R., Mahmood, R., Graham, M., Bonner, C., Bernstein, C.N. and Arnold, D.L., 2023. Proportionality-based association metrics in count compositional data. Submitted to Bioinformatics</description>
+    </item>
     
     <item>
       <title>Software</title>
@@ -78,17 +88,6 @@ My research interests include:
  Zhijie Li  Current undergraduate research assistants
  Nneka Okaeme - NSERC USRA 2022  Past undergraduate research assistants
  Yutong Chen - YorkU Dean&amp;rsquo;s Undergraduate Research Award 2022  </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://kevinmcgregor.github.io/publications/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kevinmcgregor.github.io/publications/</guid>
-      <description>Published Articles  Kevin McGregor, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. Submitted to Biometrics in June 2020
- McGregor, Kevin, Aurélie Labbe, and Celia MT Greenwood. &amp;ldquo;MDiNE: a model to estimate differential co-occurrence networks in microbiome studies.&amp;rdquo; Bioinformatics 36.6 (2020): 1840-1847.
- Lea Thaler, Sarah Brassard, Esther Kahan, Kevin McGregor, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior.</description>
     </item>
     
     <item>
