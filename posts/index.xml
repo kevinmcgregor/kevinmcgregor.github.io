@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Kevin McGregor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kevinmcgregor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postdoctoral fellow position</title>
+      <link>https://kevinmcgregor.github.io/posts/postdoc_ad/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinmcgregor.github.io/posts/postdoc_ad/</guid>
+      <description>Call for Applications for a Post-doctoral Fellow in Statistics
+Background: We are looking for a post-doctoral fellow (PDF) to join our research team in the University of Manitoba Department of Statistics. The project titled Implementing the zero-inflated alpha-folded normal distribution for microbiome modelling, is led by Prof. Kevin McGregor and Prof. Saman Muthukumarana. The PDF will have (or will soon have) a PhD in statistics, biostatistics, or a closely related field.</description>
+    </item>
     
     <item>
       <title>Welcome</title>
